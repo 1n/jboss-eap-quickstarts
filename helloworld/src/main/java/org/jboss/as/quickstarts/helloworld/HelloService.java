@@ -25,7 +25,7 @@ package org.jboss.as.quickstarts.helloworld;
 public class HelloService {
 
     String createHelloMessage(String name) {
-        return "Goodbye " + name + "(testing #1)!";
+        return "Goodbye " + name + "(testing #2)!";
     }
 
 }
